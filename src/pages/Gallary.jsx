@@ -29,8 +29,7 @@ let [current, setCurrent] = useState(0);
   };
   return (
     <Layout>
-    <div className='p-5 w-full lg:h-[100vh]]'>
-          <h1 className='text-2xl font-bold p-1'>Gallary</h1>
+    <div className='p-5 w-full lg:h-[100vh]'>
           <div className="overflow-hidden relative lg:h-[80vh] w-full my-10">
               <div
                 className={`flex transition ease-out duration-40`}

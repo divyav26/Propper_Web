@@ -58,7 +58,7 @@ const Carousel = () => {
                         setCurrent(i);
                       }}
                       key={"circle" + i}
-                      className={`rounded-full w-1 h-1 cursor-pointer  ${
+                      className={`rounded-full w-2 h-2 cursor-pointer  ${
                         i == current ? "bg-gray-400" : "bg-black"
                       }`}
                     ></div>

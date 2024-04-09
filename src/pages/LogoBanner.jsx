@@ -10,7 +10,7 @@ import logo5 from '../img/logo-5.png';
 import logo6 from '../img/logo-6.png';
 import logo7 from '../img/logo-7.png';
 import logo8 from '../img/logo-8.png';
-import Layout from '../components/Layout';
+
 
 
 const LogoBanner = () => {

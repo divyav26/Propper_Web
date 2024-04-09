@@ -6,6 +6,8 @@ import IndexPage from '../src/pages/IndexPage'
 import About from '../src/pages/About'
 import Gallary from '../src/pages/Gallary'
 import Home from './pages/Home';
+import Contact from './pages/Contact';
+import Pricing from './pages/Pricing';
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
       <Route path='/' element={<Home />}/>
       <Route path='/about' element={<About />}/>
       <Route path='/gallery' element={<Gallary />} />
+      <Route path='/contact' element = {<Contact />} />
+      <Route path='/pricing' element={<Pricing />} />
       <Route path='/footer' element={<Footer />} />
     </Routes>
     </BrowserRouter>

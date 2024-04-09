@@ -95,7 +95,7 @@ const About = () => {
               </div>
             </div>
 
-            <div className='lg:Design p-4 w-full h-[80vh]'>
+            <div className='lg:Design p-4 w-full h-[70vh]'>
                 <div className='w-full lg:flex justify-between items-center'>
                   <div className='relative border-solid w-[60%] h-[40vh]'>
                     <div className='z-10'>
@@ -114,7 +114,7 @@ const About = () => {
                 </div>
             </div>
 
-            <div className='lg:Design p-4 w-full h-[80vh]'>
+            <div className='lg:Design p-4 w-full h-[60vh]'>
                 <div className='w-full lg:flex justify-between items-center'>
                   
                   <div className='lg:w-[40%] mt-14'>
